@@ -1,0 +1,15 @@
+N:\Lessons\Software Systems Development\AS\Theory\Practice programs\PracticeInterfaces\PracticeInterfaces\bin\Debug\PracticeInterfaces.exe.config
+N:\Lessons\Software Systems Development\AS\Theory\Practice programs\PracticeInterfaces\PracticeInterfaces\bin\Debug\PracticeInterfaces.exe
+N:\Lessons\Software Systems Development\AS\Theory\Practice programs\PracticeInterfaces\PracticeInterfaces\bin\Debug\PracticeInterfaces.pdb
+N:\Lessons\Software Systems Development\AS\Theory\Practice programs\PracticeInterfaces\PracticeInterfaces\obj\Debug\PracticeInterfaces.csprojResolveAssemblyReference.cache
+N:\Lessons\Software Systems Development\AS\Theory\Practice programs\PracticeInterfaces\PracticeInterfaces\obj\Debug\PracticeInterfaces.exe
+N:\Lessons\Software Systems Development\AS\Theory\Practice programs\PracticeInterfaces\PracticeInterfaces\obj\Debug\PracticeInterfaces.pdb
+F:\Theory\Practice programs\PracticeInterfaces\PracticeInterfaces\bin\Debug\PracticeInterfaces.exe.config
+F:\Theory\Practice programs\PracticeInterfaces\PracticeInterfaces\obj\Debug\PracticeInterfaces.exe
+F:\Theory\Practice programs\PracticeInterfaces\PracticeInterfaces\obj\Debug\PracticeInterfaces.pdb
+C:\Users\Emer\Desktop\Github\PracticeInterfaces\PracticeInterfaces\bin\Debug\PracticeInterfaces.exe.config
+C:\Users\Emer\Desktop\Github\PracticeInterfaces\PracticeInterfaces\obj\Debug\PracticeInterfaces.exe
+C:\Users\Emer\Desktop\Github\PracticeInterfaces\PracticeInterfaces\obj\Debug\PracticeInterfaces.pdb
+C:\Users\Emer\Desktop\Github\PracticeInterfaces\PracticeInterfaces\obj\Debug\PracticeInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Emer\Desktop\Github\PracticeInterfaces\PracticeInterfaces\bin\Debug\PracticeInterfaces.exe
+C:\Users\Emer\Desktop\Github\PracticeInterfaces\PracticeInterfaces\bin\Debug\PracticeInterfaces.pdb
